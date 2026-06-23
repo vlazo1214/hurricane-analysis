@@ -217,6 +217,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# MacOS
+# MacSettings
 .DS_Store
-*.html
